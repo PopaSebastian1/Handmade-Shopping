@@ -1,0 +1,9 @@
+com\example\handmadeshopping\controller\AuthController.class
+com\example\handmadeshopping\repository\UserRepository.class
+EJB\model\UserProduct.class
+com\example\handmadeshopping\HelloResource.class
+com\example\handmadeshopping\HelloApplication.class
+EJB\model\Product.class
+EJB\model\Efmigrationshistory.class
+EJB\model\User.class
+com\example\handmadeshopping\service\UserService.class
